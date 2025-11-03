@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Anish Dhawan - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,65 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [akd82@cornell.edu](mailto:akd82@cornell.edu) | | | **Phone:** +860 754 6777
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student at Cornell University, majoring in Mechanical Engineering with Computer Science experience. Passionate about using technology and innovation to help others and eager to apply my knowledge to real-world challenges through impactful internship opportunities.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor in Mechanical Engineering*  
+  Graduation: May, 2027
 
-- **[High School Name]**  
+- **Hamden Hall Country Day School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, CNC, CVD
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **CAD Creative**:  
+  *Tasked to Create a 1 to 1 Design of Our Choice on Autodesk Fusion 360*  
+  - Created a Model of Apple's Airpods Max
+  - Improved Joint Management, Moves Like a Regular Headphone
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **American Central Tech Inc - Summer Intern**  
+  Jun, 2025 - Aug, 2025 
+  - Monitored and programmed both CNC and CVD Machines.
+
+- **Aneja Lab - Summer Intern**  
+  Jun, 2024 - Aug, 2024 
+  - Developed and evaluated image processing models on the MNIST dataset, experimenting with simplification parameters and visualizing results to analyze key relationships.
+
+- **Bindra Lab - Summer Intern**  
+  Jun, 2022 - Aug, 2023 
+  - Used Python for data visualization, function implementation from docstrings, and scientific problem-solving, while supporting molecular biology procedures and adhering to lab safety protocols.
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- High School Diploma, Hamden Hall Country Day School, 2023 
+- Eagle Scout, B.S.A. Troop 270, 2023  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Big Red Marching Band
+- Volunteer for Community Round Up, Closer to Free Ride, & Great Strides
 
 ---
 
