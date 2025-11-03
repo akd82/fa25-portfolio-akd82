@@ -6,7 +6,7 @@ title: Anish Dhawan
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-image.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ '/assets/images/profile-image.jpg' | relative_url }}){: .profile-image}
 
  
 My name is Anish Dhawan, and I am a junior at Cornell University pursuing a Mechanical Engineering major and a Computer Science (minor). I'm driven by creativity and curiousity, always seeking opportunities to learn, to help, collaborate, and make a meaningful impact through my work.
@@ -15,4 +15,5 @@ I have a strong background in Python, data visualization, and project management
 
 Outside of academics research, I am an Eagle Scout and dedicated community volunteer. I'm inspired by opportunities that allow me to help others, build meanningful connections, and continue growing both technically and personally.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at [my projects]({{ '/projects/' | relative_url }}) and my [CV]({{ '/CV.pdf' | relative_url }}).
+
