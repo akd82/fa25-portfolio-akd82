@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanical Dissection
+title: Fluid-Mechanical Dissection
 description: Took Apart a Pneumatic Impact Wrench
 technologies: N/A
 image: /assets/images/Impact_Wrench.jpg
