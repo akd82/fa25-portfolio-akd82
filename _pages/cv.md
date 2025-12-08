@@ -41,7 +41,7 @@ Aspiring engineering student at Cornell University, majoring in Mechanical Engin
   - Created a Model of Apple's Airpods Max
   - Improved Joint Management, Moves Like a Regular Headphone
 
-- **Fluid Dissection**:  
+- **Fluids Dissection**:  
   *Tasked to Dissect a Pneumatic Impact Wrench*  
   - Found & Used the Relevant Equations for Torque
   - Created a 4 Minute Video Linked in the Projects Tab
