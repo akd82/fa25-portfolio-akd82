@@ -12,32 +12,46 @@ Worked With: Nuo Xiang Yan
 
 5.2/5.2.1:
 
-<div class="image-number">1.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_1.jpg" width="500">
+1.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_1.jpg" width="700">
+<div>
 
 2. AISI 4150 is a medium-carbon, chromium-molybdenum low-alloy steel. It’s a widely used alloy in structural, mechanical, and automotive components due to its balance of strength, toughness, hardenability, and wear resistance. 4150 in the normalized condition is heated above the austenitizing temperature and air-cooled, improving toughness, machinability, and a refined ferrite-pearlite microstructure.
 
-<div class="image-number">3.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_2.jpg" width="500">
-<img src="/fa25-portfolio-akd82/assets/images/Torque_3.jpg" width="500">
+3.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_2.jpg" width="700">
+<img src="/fa25-portfolio-akd82/assets/images/Torque_3.jpg" width="700">
+<div>
 
-<div class="image-number">4.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_4.jpg" width="500">
+4.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_4.jpg" width="700">
+<div>
 
-<div class="image-number">5.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_5.jpg" width="500">
+5.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_5.jpg" width="700">
+<div>
 
-<div class="image-number">6.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_6.jpg" width="500">
-<img src="/fa25-portfolio-akd82/assets/images/Torque_7.jpg" width="500">
-<img src="/fa25-portfolio-akd82/assets/images/Torque_8.jpg" width="500">
+6.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_6.jpg" width="700">
+<img src="/fa25-portfolio-akd82/assets/images/Torque_7.jpg" width="700">
+<img src="/fa25-portfolio-akd82/assets/images/Torque_8.jpg" width="700">
+<div>
 
 From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection = 0.43315 in, and Strain at the Strain Gauge Location = 1011 microstrain. These values are consistent with our calculations:
 
-<div class="image-number">7.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_9.jpg" width="500">
+7.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_9.jpg" width="700">
+<div>
 
 Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
 
-<div class="image-number">8.</div>
-<img src="/fa25-portfolio-akd82/assets/images/Torque_10.jpg" width="500">
+8.
+<div>
+<img src="/fa25-portfolio-akd82/assets/images/Torque_10.jpg" width="700">
+<div>
