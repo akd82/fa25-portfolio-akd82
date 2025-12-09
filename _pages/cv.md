@@ -29,7 +29,7 @@ Aspiring engineering student at Cornell University, majoring in Mechanical Engin
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360
+- **Software:** Autodesk Fusion 360, ANSYS
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, CNC, CVD
 
@@ -45,6 +45,11 @@ Aspiring engineering student at Cornell University, majoring in Mechanical Engin
   *Tasked to Dissect a Pneumatic Impact Wrench*  
   - Found & Used the Relevant Equations for Torque
   - Created a 4 Minute Video Linked in the Projects Tab
+
+- **Wrench Design**:  
+  *Tasked to Design a Torque Wrench to Satisfy Conditions*  
+  - Decided on a Material & Dimensions
+  - Did an ANSYS Analysis Testing Validity of Calculations and Design
 
 ---
 
