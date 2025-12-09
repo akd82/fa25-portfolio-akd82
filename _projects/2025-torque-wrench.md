@@ -18,7 +18,9 @@ Worked With: Nuo Xiang Yan
 <div>
 <br>
 
+<div>
 2. AISI 4150 is a medium-carbon, chromium-molybdenum low-alloy steel. It’s a widely used alloy in structural, mechanical, and automotive components due to its balance of strength, toughness, hardenability, and wear resistance. 4150 in the normalized condition is heated above the austenitizing temperature and air-cooled, improving toughness, machinability, and a refined ferrite-pearlite microstructure.
+</div>
 <br>
 
 3.
@@ -48,7 +50,9 @@ Worked With: Nuo Xiang Yan
 </div>
 <br>
 
+<div>
 From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection = 0.43315 in, and Strain at the Strain Gauge Location = 1011 microstrain. These values are consistent with our calculations:
+</div>
 <br>
 
 7.
@@ -57,7 +61,9 @@ From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection
 </div>
 <br>
 
+<div>
 Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
+</div>
 <br>
 
 8.
