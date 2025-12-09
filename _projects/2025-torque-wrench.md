@@ -12,46 +12,62 @@ Worked With: Nuo Xiang Yan
 
 5.2/5.2.1:
 
-1.
+1.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_1.jpg" width="700">
-<div>
+</div>
+
+<br>
 
 2. AISI 4150 is a medium-carbon, chromium-molybdenum low-alloy steel. It’s a widely used alloy in structural, mechanical, and automotive components due to its balance of strength, toughness, hardenability, and wear resistance. 4150 in the normalized condition is heated above the austenitizing temperature and air-cooled, improving toughness, machinability, and a refined ferrite-pearlite microstructure.
 
-3.
+<br>
+
+3.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_2.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_3.jpg" width="700">
-<div>
+</div>
 
-4.
+<br>
+
+4.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_4.jpg" width="700">
-<div>
+</div>
 
-5.
+<br>
+
+5.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_5.jpg" width="700">
-<div>
+</div>
 
-6.
+<br>
+
+6.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_6.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_7.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_8.jpg" width="700">
-<div>
+</div>
+
+<br>
 
 From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection = 0.43315 in, and Strain at the Strain Gauge Location = 1011 microstrain. These values are consistent with our calculations:
 
-7.
+7.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_9.jpg" width="700">
-<div>
+</div>
+
+<br>
 
 Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
 
-8.
+<br>
+
+8.  
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_10.jpg" width="700">
-<div>
+</div>
