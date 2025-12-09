@@ -60,9 +60,8 @@ From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection
 </div>
 <br>
 
-7.
 <div>
-Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
+7. Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
 </div>
 <br>
 
