@@ -6,7 +6,7 @@ technologies: ANSYS, MATLAB
 image: /assets/images/Torque_Wrench.jpg
 ---
 
-For a class, we were asked to create a torque wrench that satisfies: safety factor of Xo = 4 for yield/brittle failure, safety factor of XK = 2 for crack growth from an assumed crack of depth 0.04 in, fatigue stress factor of XS = 1.5, and material must be a steel, aluminum or titanium alloy.
+For a class, we were asked to create a torque wrench that satisfies: safety factor of Xo = 4 for yield/brittle failure, safety of XK = 2 for crack growth from an assumed crack of depth 0.04 in, fatigue stress factor of XS = 1.5, and material must be a steel, aluminum or titanium alloy.
 
 Worked With: Nuo Xiang Yan
 
@@ -25,19 +25,19 @@ Worked With: Nuo Xiang Yan
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_2.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_3.jpg" width="700">
-<div>
+</div>
 <br>
 
 4.
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_4.jpg" width="700">
-<div>
+</div>
 <br>
 
 5.
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_5.jpg" width="700">
-<div>
+</div>
 <br>
 
 6.
@@ -45,7 +45,7 @@ Worked With: Nuo Xiang Yan
 <img src="/fa25-portfolio-akd82/assets/images/Torque_6.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_7.jpg" width="700">
 <img src="/fa25-portfolio-akd82/assets/images/Torque_8.jpg" width="700">
-<div>
+</div>
 <br>
 
 From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection = 0.43315 in, and Strain at the Strain Gauge Location = 1011 microstrain. These values are consistent with our calculations:
@@ -54,7 +54,7 @@ From the FEM: Maximum Normal Stress at Gauge = 98.917 psi, Load Point Deflection
 7.
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_9.jpg" width="700">
-<div>
+</div>
 <br>
 
 Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
@@ -63,4 +63,4 @@ Torque Wrench Sensitivity = 1011 microstrain × 1000 = 1.011 mV/V
 8.
 <div>
 <img src="/fa25-portfolio-akd82/assets/images/Torque_10.jpg" width="700">
-<div>
+</div>
