@@ -11,7 +11,7 @@ For a class, we were asked to create a torque wrench that satisfies the followin
 
 Worked With: Nuo Xiang Yan
 
-5.2/5.2.1
+5.2/5.2.1:
 
 1. ![](/assets/images/Screenshot 2025-12-08 at 11.56.40 PM.png)
 
