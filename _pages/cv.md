@@ -51,6 +51,11 @@ Aspiring engineering student at Cornell University, majoring in Mechanical Engin
   - Decided on a Material & Dimensions
   - Did an ANSYS Analysis Testing Validity of Calculations and Design
 
+  - **Sphero SPRK+ Breakdown**:  
+  *Tasked to Dissect a Sphero SPRK+ Robot*  
+  - Took Photos of Relevant Parts
+  - Compiled a 10 Page Report Based on Models & Findings
+
 ---
 
 #### Work Experience
