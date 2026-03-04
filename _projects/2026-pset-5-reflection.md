@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Problem Set 5 -- Fin Analysis and Transient Heating
+title: Problem Set 5 -- Heat Sink Design and Transient Thermal Analysis
 description: Explanation of What I Learned & How it Will be Useful.
 technologies: N/A
 image: /assets/images/page1_pset5.jpg
